@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to my GitHub Profile! 👋
 
-<!--
-**Datenflieger/datenflieger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Datenflieger, a hobbyist developer from Germany. I enjoy coding Minecraft plugins and setting up Minecraft servers for fun.
 
-Here are some ideas to get you started:
+## Skills
+- **Minecraft Plugin Development:** Skilled in developing Bukkit/Spigot/Bungeecord plugins using the Spigot API. I enjoy creating custom plugins to enhance gameplay and add new features to Minecraft servers. 🎮
+- **Minecraft Server Setup:** Experienced in setting up and configuring Minecraft servers. I enjoy tinkering with server settings to create unique gaming experiences. 🛠️
+- **Java:** Proficient in Java programming, primarily for Minecraft plugin development 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- **Minecraft Plugins:** Currently developing custom plugins for Lythia.de to enhance the server's gameplay and features.
+
+## 🖌️ Design & Modelling
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+
+## Contact
+Feel free to reach out to me via [Discord](https://www.linkedin.com/in/your-profile) 🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datenflieger&hide_progress=true&theme=midnight-purple)
