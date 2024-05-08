@@ -11,13 +11,13 @@ I'm Datenflieger, a hobbyist developer from Germany. I enjoy coding Minecraft pl
 ## Currently Working On
 - **Minecraft Plugins:** Currently developing custom plugins for Lythia.de to enhance the server's gameplay and features.
 
-## 🖌️ Design & Modelling
+## 🖌️ Design
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ## Contact
-Feel free to reach out to me via [Discord](https://www.linkedin.com/in/your-profile) 🚀
+Feel free to reach out to me via **Discord (datenflieger#0000)** 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datenflieger&hide_progress=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datenflieger&hide_progress=true&theme=midnight-purple)
