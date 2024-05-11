@@ -20,4 +20,4 @@ I'm Datenflieger, a hobbyist developer from Germany. I enjoy coding Minecraft pl
 ## Contact
 Feel free to reach out to me via **Discord (datenflieger#0000)** 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datenflieger&hide_progress=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
