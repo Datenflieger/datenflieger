@@ -1,7 +1,5 @@
 # Welcome to my GitHub Profile! 👋
 
-<hr>
-
 ## About Me
 I'm Datenflieger, a hobbyist developer from Germany. I enjoy coding Minecraft plugins and setting up Minecraft servers for fun.
 
