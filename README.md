@@ -1,35 +1,43 @@
-# Welcome to my GitHub Profile! 👋
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Waiting+for+the+Sunrise&size=50&pause=1000&color=C00000&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+There!;I'm+Datenflieger" alt="Typing SVG" /></a>
+</h1>
 
-## About Me
-I'm Datenflieger, a hobbyist developer from Germany. I enjoy coding Minecraft plugins and setting up Minecraft servers for fun.
+<p align="center">
+    <img src="https://img.shields.io/github/stars/datenflieger?style=for-the-badge&logo=github&color=FFBB33" alt="Stars">&nbsp;&nbsp;
+</p>
 
-<hr>
+<p align="center">
+I'm Datenflieger, a hobbyist developer from Germany. I enjoy coding Minecraft plugins and setting up Minecraft servers for fun 😊
+</p>
 
-## Skills
-- **HTML** Learning HTML 🛜
-- **Minecraft Server Setup:** Experienced in setting up and configuring Minecraft servers. I enjoy tinkering with server settings to create unique gaming experiences. 🛠️
-- **Java:** Proficient in Java programming, primarily for Minecraft plugin development 💻
+<br/>
+<p align="center">
+  <img src="https://i.imgur.com/290GvPi.gif"30" height="30">
+</p>
 
-<hr>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,mysql,debian,windows,html,vscode,github,gitlab,git" /><br>
+</div>
 
-## Currently Working On
-- **Minecraft Plugins:** Currently developing custom plugins for Lythia.de to enhance the server's gameplay and features.
-
-<hr>
-
-## 🖌️ Design
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-
-<hr>
-
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-<hr>
-
-## Contact
+<h2 align="center">Contact</h2>
+<p align="center">
 Feel free to reach out to me via **Discord (datenflieger#0000)** 🚀
+</p>
 
-![Datenflieger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Datenflieger&show_icons=true&theme=radical)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Datenflieger&langs_count=10&layout=compact&theme=radical)]()
+<h2 align="center">Stats</h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=datenflieger&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&theme=radical">&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datenflieger&theme=radical">
+</div>
+<br/>
+<p align="center">
+    <img src="https://img.shields.io/github/stars/datenflieger?style=for-the-badge&logo=github&color=FFBB33" alt="Stars">&nbsp;&nbsp;
+</p>
 
+<hr>
+
+<p align="center"> 
+    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"><br>
+</p>
