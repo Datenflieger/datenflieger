@@ -32,9 +32,6 @@ Feel free to reach out to me via **Discord (datenflieger#0000)** 🚀
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datenflieger&theme=radical">
 </div>
 <br/>
-<p align="center">
-    <img src="https://img.shields.io/github/stars/datenflieger?style=for-the-badge&logo=github&color=FFBB33" alt="Stars">&nbsp;&nbsp;
-</p>
 
 <hr>
 
