@@ -18,7 +18,7 @@ I'm Datenflieger, a hobbyist developer from Germany. I enjoy coding Minecraft pl
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,mysql,debian,windows,html,vscode,github,gitlab,git,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=java,mysql,debian,windows,vscode,github,gitlab,git,photoshop" /><br>
 </div>
 
 <h2 align="center">Contact</h2>
