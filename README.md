@@ -27,7 +27,7 @@ I'm also currently learning Python and coding Android Apps
 
 <h2 align="center">Contact</h2>
 <p align="center">
-Feel free to reach out to me via **Discord (datenflieger#0000)** 🚀
+Feel free to reach out to me via Discord (datenflieger#0000) 🚀
 </p>
 
 <h2 align="center">Stats</h2>
