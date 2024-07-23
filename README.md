@@ -9,6 +9,10 @@
 <p align="center">
 I'm Datenflieger, a hobbyist developer from Germany. I enjoy coding Minecraft plugins and setting up Minecraft servers for fun 😊
 </p>
+<br/>
+<p align="center">
+I'm also currently learning Python and coding Android Apps
+</p>
 
 <br/>
 <p align="center">
