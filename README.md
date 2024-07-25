@@ -11,7 +11,7 @@ I'm Datenflieger, a hobbyist developer from Germany. I enjoy coding Minecraft pl
 </p>
 <br/>
 <p align="center">
-I'm also currently learning Python and coding Android Apps
+I'm also currently learning Python, coding Android Apps and a Developer on CrazzyUniverse
 </p>
 
 <br/>
