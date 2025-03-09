@@ -1,7 +1,7 @@
 # Datenflieger
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=3000&pause=1000&color=333333&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Developer+from+Germany;Minecraft+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Developer+from+Germany;Minecraft+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,29 +30,13 @@ I'm a hobbyist developer from Germany with a passion for Minecraft plugin develo
       <td valign="top" width="50%">
         <h3 align="center">Development</h3>
         <p align="center">
-          <a href="#">
-            <img src="https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk" alt="Java">
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python" alt="Python">
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql" alt="MySQL">
-          </a>
+          <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql" /><br>
         </p>
       </td>
       <td valign="top" width="50%">
         <h3 align="center">Tools & Platforms</h3>
         <p align="center">
-          <a href="#">
-            <img src="https://img.shields.io/badge/VS_Code-333333?style=flat-square&logo=visual-studio-code" alt="VS Code">
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Git-333333?style=flat-square&logo=git" alt="Git">
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github" alt="GitHub">
-          </a>
+          <img src="https://skillicons.dev/icons?i=vscode,git,github" /><br>
         </p>
       </td>
     </tr>
@@ -60,19 +44,14 @@ I'm a hobbyist developer from Germany with a passion for Minecraft plugin develo
       <td valign="top" width="50%">
         <h3 align="center">Operating Systems</h3>
         <p align="center">
-          <a href="#">
-            <img src="https://img.shields.io/badge/Windows-333333?style=flat-square&logo=windows" alt="Windows">
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Debian-333333?style=flat-square&logo=debian" alt="Debian">
-          </a>
+          <img src="https://skillicons.dev/icons?i=debian,windows" /><br>
         </p>
       </td>
       <td valign="top" width="50%">
         <h3 align="center">Design</h3>
         <p align="center">
           <a href="#">
-            <img src="https://img.shields.io/badge/Photoshop-333333?style=flat-square&logo=adobe-photoshop" alt="Photoshop">
+            <img src="https://skillicons.dev/icons?i=photoshop" /><br>
           </a>
         </p>
       </td>
@@ -106,5 +85,3 @@ Feel free to reach out to me via Discord (datenflieger) for collaboration or que
 <div align="center">
   <sub>Built with ❤️ by Datenflieger</sub>
 </div>
-
-<!-- Replace "your-repo-name" with actual repository names when you have public repositories to showcase -->
