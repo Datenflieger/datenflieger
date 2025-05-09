@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datenflieger&label=Profile%20views&color=0e75b6&style=flat" alt="datenflieger" /> </p>
 
-- 🔭 I’m currently working on **OnThePixel.net, UnfinishedStory.de, Cherryblock.de**
+- 🔭 I’m currently working on **UnfinishedStory.de, Cherryblock.de**
 
 - 🌱 I’m currently learning **React**
 
